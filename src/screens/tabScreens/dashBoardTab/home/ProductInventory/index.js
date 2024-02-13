@@ -1,0 +1,6 @@
+export {default as ProductList } from '../ProductInventory/productList/index'
+export {default as ProductDetails} from '../ProductInventory/productDetails/index'
+export {default as EnquireProduct} from '../ProductInventory/productEnquiry/index'
+export {default as RateProduct} from '../ProductInventory/rateProduct/index'
+export {default as ProductReview} from '../ProductInventory/productReview/index'
+export {default as ProductInvoice} from '../ProductInventory/productInvoice/index'

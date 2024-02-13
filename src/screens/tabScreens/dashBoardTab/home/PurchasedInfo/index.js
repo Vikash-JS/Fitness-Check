@@ -1,0 +1,1 @@
+export {default as PurchasedDetails} from './PurchasedDetails/index';

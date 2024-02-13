@@ -1,0 +1,1 @@
+export { default as OnBoardingScreen } from './onBoard/index';

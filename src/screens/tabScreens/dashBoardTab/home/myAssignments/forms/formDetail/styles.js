@@ -1,0 +1,53 @@
+import {StyleSheet} from 'react-native';
+import {Colors, Fonts} from '../../../../../../../utils/Constants';
+
+export const styles =StyleSheet.create( {
+    questionView:{
+        marginHorizontal:10,
+        marginTop:10,
+        padding:20,
+        backgroundColor:Colors.lightGrey,
+        borderRadius:20
+    },
+    circleView:{
+        flexDirection:'row',
+        borderWidth:1,
+        width:26,
+        height:26,
+        borderRadius:13,
+        justifyContent:'center',
+        alignItems:'center',
+        marginLeft:8,
+        borderColor:Colors.newGrey
+    },
+    bold_10_black:{
+        fontFamily:Fonts.gilroy_Bold,
+        fontSize:10,
+        color:Colors.black
+    },
+    bold_10_white:{
+        fontFamily:Fonts.gilroy_Bold,
+        fontSize:10,
+        color:Colors.white
+    },
+    bold_14_black:{
+        fontFamily:Fonts.gilroy_Bold,
+        fontSize:14,
+        color:Colors.black
+    },
+    semiBold_14_white:{
+        fontFamily:Fonts.gilroy_SemiBold,
+        fontSize:14,
+        color:Colors.white
+    },
+    semiBold_10_black:{
+        fontFamily:Fonts.gilroy_SemiBold,
+        fontSize:10,
+        color:Colors.black
+    },
+    semiBold_12_black:{
+        fontFamily:Fonts.gilroy_SemiBold,
+        fontSize:12,
+        color:Colors.black
+    }
+})

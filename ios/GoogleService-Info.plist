@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>856340862276-14m3om372o75hetmcihqr86oofqs0vdi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.856340862276-14m3om372o75hetmcihqr86oofqs0vdi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>856340862276-ikourjt8cmi8npququ8jrmit3cdpbr1k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjYyqTUqa_W1o9dahQPcrU0T_rfZNNEk8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>856340862276</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.MyFitMantra</string>
+	<key>PROJECT_ID</key>
+	<string>myfitnessmantra</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myfitnessmantra.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:856340862276:ios:87397b39000948cc0e7311</string>
+	<key>DATABASE_URL</key>
+	<string>https://myfitnessmantra-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
